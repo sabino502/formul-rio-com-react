@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Poppins", san serif;
+  outline: none;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+form {
+  padding: 20px;
+  box-shadow: 0 0 5px 2px lab(0% 0 0 / 0.49019607843137253);
+  border-radius: 6px;
+  border: none;
+}
